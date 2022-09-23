@@ -1,0 +1,45 @@
+/*un commentaire en CSS*/
+
+body{
+    color:dark;
+    font-size:16px;
+    font-style:normal;
+    font-weight:bold;
+    line-height:24px;
+    font-family: Times New Roman;
+    text-decoration:underline;
+    text-indent:200px;
+    text-transform:capitalize;
+    letter-spacing:3px;
+    text-shadow:1px 2px 3px blue;
+    background-color:yellow;
+    background-image:url(IMG_20220906_170732.jpg);
+    height:100px;
+        widht:200px;
+    background-repeat:no-repeat;
+}
+h2{
+    color:green;
+    font-size:0.8em
+}
+
+div{
+    font-style:oblique;
+}
+para_1{
+    font-style:normal;
+}
+
+.rouge{
+     color:#FF0000;
+     opacity:0.6;
+}
+
+div{
+    width:100px;
+    border:5px solid black;
+}
+
+ol{
+    text-align:right;
+}
